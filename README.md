@@ -4,7 +4,6 @@
 ROBLOX Lua First-Person shooter game cheat script that I wrote when I first got into exploiting.
 
 
-----------
 # Includes
 > 
  - Chams
