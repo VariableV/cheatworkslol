@@ -5,7 +5,6 @@ ROBLOX Lua First-Person shooter game cheat script that I wrote when I first got 
 
 
 # Includes
-> 
  - Chams
  - Aim-assist/aimbot
  - ESP
